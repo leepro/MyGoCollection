@@ -8,8 +8,8 @@
 
 # System/Monitoring
 
-* [gopsutil](https://github.com/shirou/gopsutil) / 57698eb0
-* [systemstat](https://bitbucket.org/bertimus9/systemstat) / 57698eb0
+* [gopsutil](https://github.com/shirou/gopsutil) / psutil for golang. 57698eb0
+* [systemstat](https://bitbucket.org/bertimus9/systemstat) / allows you to add system statistics to your go program. 57698eb0
 
 # Parser
 
