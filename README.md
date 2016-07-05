@@ -11,3 +11,6 @@
 * [gopsutil](https://github.com/shirou/gopsutil) / 1466535600
 * [systemstat](https://bitbucket.org/bertimus9/systemstat) / 1466535600
 
+# Parser
+
+* [Peg](https://github.com/pointlander/peg) / Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator. A Packrat parser is a descent recursive parser capable of backtracking. / 1466535600
